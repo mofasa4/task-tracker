@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "doctor's appointment",
+      "day": "10 of jan 2022",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "project completion",
+      "day": "11 of jan 2022",
+      "reminder": true
+    },
+    {
+      "text": "async",
+      "day": "await",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "promise",
+      "day": "no",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}

@@ -23,7 +23,7 @@ Header.propTypes = {
 };
 
 Header.defaultProps = {
-  title: "hello from titles without props",
+  title: "Task Tracker",
 };
 
 //  CSS Styling in react components
